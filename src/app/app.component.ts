@@ -8,7 +8,7 @@ import { Toastr, TOASTR_TOKEN } from './services/toastr.service';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'AgizaSasa';
+  title = 'IKOSHOP';
 
   constructor(
     @Inject(JQ_TOKEN) private $: any,
